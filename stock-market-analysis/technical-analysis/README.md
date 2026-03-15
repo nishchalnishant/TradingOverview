@@ -11,4 +11,16 @@ Technical analysis is a method used to evaluate and predict the future price mov
 4. **Volume**: The number of shares or contracts traded in a security or market. Volume is often used to confirm trends; for instance, increasing volume might confirm a new trend, while decreasing volume could indicate a potential reversal.
 5. **Trendlines and Support/Resistance Levels**: Trendlines help identify the direction of the market, while support and resistance levels are used to determine potential price barriers.
 
-Technical analysis is based on the belief that historical price movements can help predict future movements. While it is popular among traders and investors, it has its critics, particularly those who favor fundamental analysis, which focuses on a company’s financial health and other intrinsic factors rather than price patterns.
+Technical analysis is based on the belief that historical price movements can help predict future movements. While it is popular among traders and investors, it has its critics, particularly those who favor fundamental analysis, which focuses on a company's financial health and other intrinsic factors rather than price patterns.
+
+---
+
+## Technical Analysis Handbook (Complete Reference)
+
+For a **structured, full-length reference** from beginner to advanced, see the **Technical Analysis & Trading Handbook** in this repo:
+
+- **[Handbook — Start here](handbook/README.md)**
+
+The handbook extends the concepts above with detailed notes on market structure and microstructure; price action (support/resistance, trendlines, HH/HL, BOS, MSS, liquidity, range vs trend); candlestick and chart patterns; technical indicators (trend, momentum, volatility, volume) with formulas and usage; Smart Money Concepts and Wyckoff; trading strategies (trend, breakout, mean reversion, scalping, swing, position); risk management and psychology; backtesting and algo trading; and common mistakes. Each topic includes concept explanation, chart interpretation, psychology, entry/exit, risk management, and examples.
+
+**Quick revision:** Use the [Revision folder](../../Revision/) at the repo root for cheat sheets (Complete Trading Revision, Patterns Cheat Sheet, Indicators Quick Reference, Trading Setups Checklist, Risk Management Formula Sheet).

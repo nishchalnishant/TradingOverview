@@ -1,5 +1,49 @@
 # Fundamental analysis
 
+Fundamental analysis is the evaluation of a company’s **financial statements**, **business quality**, and **competitive position** to estimate **intrinsic value** and decide whether a security is under- or overvalued. It answers *what* to buy or sell; technical analysis and options help with *when* and *how*.
+
+---
+
+## Core Concepts (Quick Reference)
+
+### The Three Financial Statements
+
+- **Income Statement (P&L):** Revenue − Expenses = Net income. Key lines: gross profit, operating income (EBIT), net income, EPS. Use for trends in revenue, margins, and earnings quality.
+- **Balance Sheet:** Assets = Liabilities + Equity. Use for liquidity (current ratio, quick ratio), leverage (debt/equity), and book value.
+- **Cash Flow Statement:** Operating (cash from core business), Investing (CapEx, M&A), Financing (debt, dividends, buybacks). Use to check if earnings are backed by cash flow—beware earnings without cash.
+
+### Key Ratios
+
+| Category | Examples |
+|----------|----------|
+| **Profitability** | ROE, ROA, gross/operating/net margin |
+| **Liquidity** | Current ratio, quick ratio |
+| **Leverage** | Debt/equity, interest coverage |
+| **Valuation** | P/E, P/B, P/S, EV/EBITDA |
+| **Growth** | Revenue growth, EPS growth (YoY) |
+
+### Valuation Approaches
+
+- **DCF (Discounted Cash Flow):** Estimate future free cash flows; discount to present value. Sensitive to growth and discount rate—use a range of assumptions.
+- **Multiples:** Compare P/E, P/B, EV/EBITDA to peers and history. Adjust for growth and risk.
+- **Margin of safety:** Buy when price is meaningfully below estimated value (e.g. 20–30%+). Graham/Buffett principle.
+
+### Qualitative Factors
+
+- **Competitive advantage (moat):** Brand, scale, network effects, switching costs. Sustained high ROE and margins often reflect a moat.
+- **Management:** Capital allocation, transparency, alignment (insider ownership).
+- **Industry and risks:** Growth vs mature; regulatory, technology, concentration risks.
+
+---
+
+## How to Use This Section
+
+1. **Book Notes** (below): Detailed notes from classic texts—start with [Book Notes README](book-notes/README.md) and pick by level (beginner → advanced).
+2. **Summary:** For a condensed overview of FA and how it fits with TA and Options, see [Summary — Fundamental Analysis Summary](../../Summary/Fundamental_Analysis_Summary.md).
+3. **Tips and Tricks:** Practical guidance on statements, ratios, valuation, red flags, and workflow: [Tips_and_Tricks — Fundamental Analysis](../../Tips_and_Tricks/Fundamental_Analysis_Tips.md).
+
+---
+
 ## **Books**&#x20;
 
 1. **The Intelligent Investor" by Benjamin Graham**
@@ -35,5 +79,10 @@
    * **CFA Institute**: The Chartered Financial Analyst (CFA) program covers extensive material on financial analysis and valuation.
    * **American Association of Individual Investors (AAII)**: Offers resources and tools for individual investors.
 
-\
-<br>
+---
+
+## Related in This Repo
+
+- **Technical Analysis:** For *when* to enter/exit, use the [Technical Analysis Handbook](../technical-analysis/handbook/README.md). Many traders use FA for selection and TA for timing.
+- **Options:** For *how* to structure exposure or hedge, see [Options Trading](../options-trading/README.md). Use options to express a fundamental view or protect a position.
+- **Master Summary:** [Summary/Master_Summary.md](../../Summary/Master_Summary.md) ties FA, TA, and Options together in one place.
