@@ -27,6 +27,8 @@ There are different ways to analyze the market:
 
 ## Are Markets Efficient?
 
+
+
 &#x20;
 
 ---
