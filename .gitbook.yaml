@@ -1,0 +1,8 @@
+# GitBook configuration
+# See: https://github.com/GitbookIO/gitbook/blob/master/docs/config.md
+
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md

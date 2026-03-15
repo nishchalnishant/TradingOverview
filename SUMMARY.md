@@ -1,8 +1,8 @@
-# Table of contents
+# Summary
 
 * [Stock market analysis](README.md)
-  * [Stock market analysis — Three pillars overview](stock-market-analysis/README.md)
-  * [Summary — Overview of all three disciplines](Summary/README.md)
+  * [Three pillars overview](stock-market-analysis/README.md)
+  * [Summary — All three disciplines](Summary/README.md)
     * [Master Summary (TA + FA + Options)](Summary/Master_Summary.md)
     * [Technical Analysis Summary](Summary/Technical_Analysis_Summary.md)
     * [Fundamental Analysis Summary](Summary/Fundamental_Analysis_Summary.md)
