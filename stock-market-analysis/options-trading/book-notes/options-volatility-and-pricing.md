@@ -1,2 +1,0 @@
-# Options Volatility and Pricing
-
